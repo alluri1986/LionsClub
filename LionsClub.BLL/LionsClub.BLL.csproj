@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>0f879af2-2a3b-4c83-b821-b976b15741f2</ProjectGuid>
+    <ProjectGuid>{1A05F053-41C4-4870-8E1B-1AA045263A61}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LionsClub.BLL</RootNamespace>
